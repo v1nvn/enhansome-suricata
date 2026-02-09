@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,685 | 🐛 440 | 🌐 Go | 📅 2026-02-06 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,685 | 🐛 441 | 🌐 Go | 📅 2026-02-06 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 313 | 🐛 6 | 🌐 Shell | 📅 2026-02-07 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2025-07-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -69,7 +69,7 @@
 
 ## Development Tools
 
-* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 3 | 🌐 Python | 📅 2025-12-23 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 4 | 🌐 Python | 📅 2026-02-08 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 * [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) ⭐ 35 | 🐛 1 | 📅 2023-12-09 - Basic Suricata syntax highlighter for Sublime Text.
 * [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) ⭐ 12 | 🐛 0 | 📅 2022-02-26 - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 * [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-13 - Suricata IntelliSense Extension using the Suricata Language Server.
@@ -91,7 +91,7 @@
 ## Rule Sets
 
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 214 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
-* [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 182 | 🐛 1 | 📅 2026-02-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
+* [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 184 | 🐛 1 | 📅 2026-02-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
 * [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 82 | 🐛 1 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
@@ -126,7 +126,7 @@
 
 * [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,590 | 🐛 216 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
 * [Amsterdam](https://github.com/StamusNetworks/Amsterdam) ⚠️ Archived - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
-* [Shovel](https://github.com/FCSC-FR/shovel) ⭐ 84 | 🐛 3 | 🌐 JavaScript | 📅 2026-01-18 - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
+* [Shovel](https://github.com/FCSC-FR/shovel) ⭐ 84 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-08 - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
 * [Artica](https://github.com/dtouzeau/artica-suricata) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-01 - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.
 * [pfSense](https://www.pfsense.org) - A free network firewall distribution, based on the FreeBSD operating system with a custom kernel and including third party free software packages for additional functionality.
 * [OPNsense](https://opnsense.org) - An open source, easy-to-use and easy-to-build FreeBSD based firewall and routing platform.

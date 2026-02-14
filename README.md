@@ -35,12 +35,12 @@
 * [FEVER](https://github.com/DCSO/fever) ⭐ 57 | 🐛 2 | 🌐 Go | 📅 2025-11-20 - Fast, extensible, versatile event router for Suricata's EVE-JSON format.
 * [Meer](https://github.com/quadrantsec/meer) ⭐ 30 | 🐛 8 | 🌐 C | 📅 2023-06-21 - A "spooler" for Suricata / Sagan.
 * [suricata-kafka-output](https://github.com/Center-Sun/suricata-kafka-output) ⭐ 15 | 🐛 2 | 🌐 Rust | 📅 2021-11-25 - Suricata Eve Kafka Output Plugin for Suricata 6.
-* [suricata-redis-output](https://github.com/jasonish/suricata-redis-output) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-02-05 - Suricata Eve Redis Output Plugin for Suricata 7.
+* [suricata-redis-output](https://github.com/jasonish/suricata-redis-output) ⭐ 8 | 🐛 1 | 🌐 Rust | 📅 2026-02-13 - Suricata Eve Redis Output Plugin for Suricata 7.
 * [Lilith](https://github.com/VVelox/Lilith) ⭐ 1 | 🐛 0 | 📅 2022-11-25 - Reads EVE files into SQL as well as search stored data.
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,691 | 🐛 448 | 🌐 Go | 📅 2026-02-12 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,690 | 🐛 448 | 🌐 Go | 📅 2026-02-13 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 313 | 🐛 5 | 🌐 Shell | 📅 2026-02-11 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2025-07-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -69,7 +69,7 @@
 
 ## Development Tools
 
-* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 5 | 🌐 Python | 📅 2026-02-12 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 4 | 🌐 Python | 📅 2026-02-13 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 * [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) ⭐ 35 | 🐛 1 | 📅 2023-12-09 - Basic Suricata syntax highlighter for Sublime Text.
 * [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) ⭐ 12 | 🐛 0 | 📅 2022-02-26 - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 * [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-13 - Suricata IntelliSense Extension using the Suricata Language Server.
@@ -84,7 +84,7 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,337 | 🐛 155 | 🌐 Python | 📅 2026-02-11 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,338 | 🐛 155 | 🌐 Python | 📅 2026-02-11 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 482 | 🐛 17 | 🌐 Rust | 📅 2026-02-11 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 38 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
@@ -108,7 +108,7 @@
 
 ## Rule/Security Content Management and Handling
 
-* [Scirius](https://github.com/StamusNetworks/scirius) ⭐ 676 | 🐛 119 | 🌐 Python | 📅 2025-12-23 - Web application for Suricata ruleset management and threat hunting.
+* [Scirius](https://github.com/StamusNetworks/scirius) ⭐ 674 | 🐛 118 | 🌐 Python | 📅 2025-12-23 - Web application for Suricata ruleset management and threat hunting.
 * [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) ⭐ 113 | 🐛 10 | 🌐 Python | 📅 2024-04-26 - Create rules and configuration for Suricata to alert on indicators from an OTX account.
 * [Aristotle](https://github.com/secureworks/aristotle) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2024-11-02 - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
 * [IOCmite](https://github.com/sebdraven/IOCmite) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-11-09 - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
@@ -124,7 +124,7 @@
 
 ## Systems Using Suricata
 
-* [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,590 | 🐛 216 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
+* [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,588 | 🐛 216 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
 * [Amsterdam](https://github.com/StamusNetworks/Amsterdam) ⚠️ Archived - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
 * [Shovel](https://github.com/FCSC-FR/shovel) ⭐ 84 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-08 - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
 * [Artica](https://github.com/dtouzeau/artica-suricata) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-01 - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.

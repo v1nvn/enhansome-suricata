@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,690 | 🐛 448 | 🌐 Go | 📅 2026-02-13 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,692 | 🐛 448 | 🌐 Go | 📅 2026-02-13 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 313 | 🐛 5 | 🌐 Shell | 📅 2026-02-11 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2025-07-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -84,7 +84,7 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,338 | 🐛 155 | 🌐 Python | 📅 2026-02-11 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,337 | 🐛 155 | 🌐 Python | 📅 2026-02-11 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 482 | 🐛 17 | 🌐 Rust | 📅 2026-02-11 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 38 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
@@ -124,7 +124,7 @@
 
 ## Systems Using Suricata
 
-* [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,588 | 🐛 216 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
+* [SELKS](https://github.com/StamusNetworks/SELKS) ⭐ 1,589 | 🐛 216 | 🌐 Shell | 📅 2025-09-13 - A Suricata-based intrusion detection system/intrusion prevention system/network security monitoring distribution.
 * [Amsterdam](https://github.com/StamusNetworks/Amsterdam) ⚠️ Archived - Docker based Suricata, Elasticsearch, Logstash, Kibana, Scirius aka SELKS.
 * [Shovel](https://github.com/FCSC-FR/shovel) ⭐ 84 | 🐛 3 | 🌐 JavaScript | 📅 2026-02-08 - Web interface to explore Suricata EVE outputs, with a primary focus on network analysis in CTF competitions.
 * [Artica](https://github.com/dtouzeau/artica-suricata) ⭐ 1 | 🐛 0 | 🌐 Go | 📅 2025-12-01 - Suricata IDS integration for the [Artica](https://artica.systems) gateway appliance.

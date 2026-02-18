@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,695 | 🐛 458 | 🌐 Go | 📅 2026-02-16 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,699 | 🐛 459 | 🌐 Go | 📅 2026-02-17 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 313 | 🐛 5 | 🌐 Shell | 📅 2026-02-11 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2025-07-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -69,7 +69,7 @@
 
 ## Development Tools
 
-* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 1 | 🌐 Python | 📅 2026-02-16 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-02-17 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 * [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) ⭐ 35 | 🐛 1 | 📅 2023-12-09 - Basic Suricata syntax highlighter for Sublime Text.
 * [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) ⭐ 12 | 🐛 0 | 📅 2022-02-26 - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 * [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-13 - Suricata IntelliSense Extension using the Suricata Language Server.
@@ -84,15 +84,15 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,338 | 🐛 155 | 🌐 Python | 📅 2026-02-11 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,339 | 🐛 154 | 🌐 Python | 📅 2026-02-11 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
 * [Evebox](https://github.com/jasonish/evebox) ⭐ 483 | 🐛 17 | 🌐 Rust | 📅 2026-02-11 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 38 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets
 
 * [Quantum Insert detection for Suricata](https://github.com/fox-it/quantuminsert/blob/master/detection/suricata/README.md) ⭐ 214 | 🐛 0 | 🌐 HTML | 📅 2019-01-02 - Suricata rules accompanying Fox-IT's QUANTUM 2015 blog/BroCon talk.
-* [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 184 | 🐛 1 | 📅 2026-02-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
-* [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 82 | 🐛 1 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
+* [Hunting rules](https://github.com/travisbgreen/hunting-rules) ⭐ 185 | 🐛 1 | 📅 2026-02-07 - Suricata IDS alert rules for network anomaly detection from Travis Green.
+* [opnsense-suricata-nmaps](https://github.com/aleksibovellan/opnsense-suricata-nmaps) ⭐ 83 | 🐛 1 | 📅 2025-11-10 - OPNSense's Suricata IDS/IPS Detection Rules Against NMAP Scans.
 * [nids-rule-library](https://github.com/klingerko/nids-rule-library#readme) ⭐ 29 | 🐛 0 | 📅 2023-07-24 - Collection of various open-source and commercial rulesets.
 * [Cluster25/detection](https://github.com/Cluster25/detection) ⭐ 14 | 🐛 0 | 🌐 YARA | 📅 2024-01-23 - Cluster25's detection rules.
 * [Antiphishing](https://github.com/julioliraup/Antiphishing) ⭐ 6 | 🐛 3 | 🌐 Python | 📅 2025-03-13 - Suricata rules and datasets to detect phishing attacks.
@@ -109,7 +109,7 @@
 ## Rule/Security Content Management and Handling
 
 * [Scirius](https://github.com/StamusNetworks/scirius) ⭐ 674 | 🐛 118 | 🌐 Python | 📅 2025-12-23 - Web application for Suricata ruleset management and threat hunting.
-* [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) ⭐ 113 | 🐛 10 | 🌐 Python | 📅 2024-04-26 - Create rules and configuration for Suricata to alert on indicators from an OTX account.
+* [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) ⭐ 114 | 🐛 10 | 🌐 Python | 📅 2024-04-26 - Create rules and configuration for Suricata to alert on indicators from an OTX account.
 * [Aristotle](https://github.com/secureworks/aristotle) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2024-11-02 - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
 * [IOCmite](https://github.com/sebdraven/IOCmite) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-11-09 - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
 * [suricata-prettifier](https://github.com/theY4Kman/suricata-prettifier) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2019-11-30 - Command-line tool to format and syntax highlight Suricata rules.
@@ -139,7 +139,7 @@
 ## Simulation and Testing
 
 * [Leonidas](https://github.com/WithSecureLabs/leonidas) ⭐ 603 | 🐛 9 | 🌐 Python | 📅 2024-11-28 - Automated Attack Simulation in the Cloud, complete with detection use cases.
-* [Dalton](https://github.com/secureworks/dalton) ⭐ 512 | 🐛 23 | 🌐 Python | 📅 2026-01-09 - Suricata and Snort IDS rule and pcap testing system.
+* [Dalton](https://github.com/secureworks/dalton) ⭐ 512 | 🐛 23 | 🌐 Python | 📅 2026-02-17 - Suricata and Snort IDS rule and pcap testing system.
 * [speeve](https://github.com/satta/speeve) ⭐ 8 | 🐛 0 | 🌐 Go | 📅 2025-12-05 - Fast, probabilistic EVE-JSON generator for testing and benchmarking of EVE-consuming applications.
 
 ## Data Sets

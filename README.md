@@ -40,7 +40,7 @@
 
 ## Operations, Monitoring and Troubleshooting
 
-* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,707 | 🐛 442 | 🌐 Go | 📅 2026-02-19 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
+* [InfluxDB Suricata Input Plugin](https://github.com/influxdata/telegraf/tree/master/plugins/inputs/suricata) ⭐ 16,711 | 🐛 439 | 🌐 Go | 📅 2026-02-20 - Input Plugin for Telegraf to collect and forward Suricata `stats` logs (included out of the box in recent Telegraf releases).
 * [docker-suricata](https://github.com/jasonish/docker-suricata) ⭐ 313 | 🐛 5 | 🌐 Shell | 📅 2026-02-11 - Suricata Docker image.
 * [suri-stats](https://github.com/regit/suri-stats) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2015-10-14 - A tool to work on suricata `stats.log` file.
 * [suricata\_exporter](https://github.com/corelight/suricata_exporter) ⭐ 27 | 🐛 2 | 🌐 Go | 📅 2025-07-27 - Simple Prometheus exporter written in Go exporting stats metrics scraped from Suricata socket.
@@ -69,7 +69,7 @@
 
 ## Development Tools
 
-* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-02-19 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
+* [Suricata Language Server](https://github.com/StamusNetworks/suricata-language-server) ⭐ 84 | 🐛 0 | 🌐 Python | 📅 2026-02-20 - An implementation of the Language Server Protocol for Suricata signatures. It adds syntax check, hints and auto-completion to your preferred editor once it is configured.
 * [SublimeSuricata](https://github.com/ozuriexv/SublimeSuricata) ⭐ 35 | 🐛 1 | 📅 2023-12-09 - Basic Suricata syntax highlighter for Sublime Text.
 * [suricata-highlight-vscode](https://github.com/dgenzer/suricata-highlight-vscode) ⭐ 12 | 🐛 0 | 📅 2022-02-26 - Suricata Rules Support for Visual Studio Code (syntax highlighting, etc).
 * [suricata-ls-vscode](https://github.com/StamusNetworks/suricata-ls-vscode) ⭐ 3 | 🐛 0 | 🌐 TypeScript | 📅 2025-11-13 - Suricata IntelliSense Extension using the Suricata Language Server.
@@ -84,8 +84,8 @@
 
 ## Analysis Tools
 
-* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,339 | 🐛 150 | 🌐 Python | 📅 2026-02-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
-* [Evebox](https://github.com/jasonish/evebox) ⭐ 483 | 🐛 17 | 🌐 Rust | 📅 2026-02-19 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
+* [Malcolm](https://github.com/cisagov/Malcolm) ⭐ 2,340 | 🐛 150 | 🌐 Python | 📅 2026-02-19 - A powerful, easily deployable network traffic analysis tool suite for full packet capture artifacts (PCAP files), Zeek logs and Suricata alerts.
+* [Evebox](https://github.com/jasonish/evebox) ⭐ 484 | 🐛 18 | 🌐 Rust | 📅 2026-02-19 - Web Based Event Viewer (GUI) for Suricata EVE Events in Elastic Search.
 * [Suricata Analytics](https://github.com/StamusNetworks/suricata-analytics) ⭐ 38 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2025-11-20 - Various resources that are useful when interacting with Suricata data.
 
 ## Rule Sets
@@ -111,7 +111,7 @@
 * [Scirius](https://github.com/StamusNetworks/scirius) ⭐ 674 | 🐛 118 | 🌐 Python | 📅 2025-12-23 - Web application for Suricata ruleset management and threat hunting.
 * [OTX-Suricata](https://github.com/AlienVault-OTX/OTX-Suricata) ⭐ 114 | 🐛 10 | 🌐 Python | 📅 2024-04-26 - Create rules and configuration for Suricata to alert on indicators from an OTX account.
 * [Aristotle](https://github.com/secureworks/aristotle) ⭐ 38 | 🐛 0 | 🌐 Python | 📅 2024-11-02 - Simple Python program that allows for the filtering and modifying of Suricata and Snort rulesets based on interpreted key-value pairs present in the metadata keyword within each rule.
-* [IOCmite](https://github.com/sebdraven/IOCmite) ⭐ 36 | 🐛 7 | 🌐 Python | 📅 2022-11-09 - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
+* [IOCmite](https://github.com/sebdraven/IOCmite) ⭐ 37 | 🐛 7 | 🌐 Python | 📅 2022-11-09 - Tool to create dataset for suricata with indicators of MISP instances and add sightings in MISP if an indicator of dataset generates an alert.
 * [suricata-prettifier](https://github.com/theY4Kman/suricata-prettifier) ⭐ 13 | 🐛 0 | 🌐 Python | 📅 2019-11-30 - Command-line tool to format and syntax highlight Suricata rules.
 * [surify-cli](https://github.com/dgenzer/surify-cli) ⭐ 3 | 🐛 2 | 🌐 JavaScript | 📅 2021-08-10 - Generate suricata-rules from collection of IOCs (JSON, CSV or flags) based on your suricata template.
 * [luaevilbit](https://github.com/regit/luaevilbit) ⭐ 2 | 🐛 0 | 🌐 Lua | 📅 2012-11-22 - An Evil bit implementation in luajit for Suricata.
